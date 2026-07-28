@@ -1,9 +1,11 @@
 # SOC-WIN11 COMMUNICATIONS
 
-## Company Background
-SOC-WIN11 Communications is a mock telecommunications company that installs, maintains, and repairs fibre broadband connections for a small client base. The organisation has 50 employees, including directors, administrative staff, HR, finance, procurement, desk-based operations staff, field engineers, supervisors, managers, an Incident Response Team, and a Security Operations Team. Its day-to-day work involves handling company and client data, coordinating field activity, supporting remote access, and securing devices and systems used by both office-based and field-based staff. This project was created to demonstrate how a communications security and acceptable use policy can be written around a realistic business structure and risk profile.
+This is my first GRC focused portfolio project where i have designed a policy document for a mock company SOC-WIN11 Communications.
 
 **This is a fictional company created for portfolio and learning purposes**
+
+## Company Background
+SOC-WIN11 Communications is a mock telecommunications company that installs, maintains, and repairs fibre broadband connections for a small client base. The organisation has 50 employees, including directors, administrative staff, HR, finance, procurement, desk-based operations staff, field engineers, supervisors, managers, an Incident Response Team, and a Security Operations Team. Its day-to-day work involves handling company and client data, coordinating field activity, supporting remote access, and securing devices and systems used by both office-based and field-based staff. This project was created to demonstrate how a communications security and acceptable use policy can be written around a realistic business structure and risk profile.
 
 
 ![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/cf06ab4f2b82033d8d42e01c81969e7d68a3a4c6/docs/grc-risk-matrix.png)
