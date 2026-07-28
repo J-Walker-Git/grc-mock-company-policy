@@ -1,4 +1,4 @@
-# SOC-WIN11 Communications Security and Acceptable Use Policy
+# SOC-WIN11 COMMUNICATIONS Security and Acceptable Use Policy
 
 ## 1. Purpose
 This document sets out the company policy and standards for protecting employees, company systems, and company data.
