@@ -5,6 +5,10 @@ SOC-WIN11 Communications is a mock telecommunications company that installs, mai
 
 **This is a fictional company created for portfolio and learning purposes**
 
+
+![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/cf06ab4f2b82033d8d42e01c81969e7d68a3a4c6/docs/grc-risk-matrix.png)
+![image alt]()
+
 # Policy
 
 ## 1. Purpose
