@@ -1,18 +1,7 @@
 # SOC-WIN11 COMMUNICATIONS
 
 ## Company Background
-SOC-WIN11 Communications is a mock telecommunications company that installs, maintains, and repairs fibre broadband connections for a small group of clients. The business has 50 employees across 
-- Leadership
-- Administration
-- HR
-- Finance
-- Procurement
-- Desk-based operations
-- Field operations
-- Incident response
-- Security operations
-
-Because the company handles client data, remote access, field devices, and operational systems, clear security and acceptable use standards are required.
+SOC-WIN11 Communications is a mock telecommunications company that installs, maintains, and repairs fibre broadband connections for a small client base. The organisation has 50 employees, including directors, administrative staff, HR, finance, procurement, desk-based operations staff, field engineers, supervisors, managers, an Incident Response Team, and a Security Operations Team. Its day-to-day work involves handling company and client data, coordinating field activity, supporting remote access, and securing devices and systems used by both office-based and field-based staff. This project was created to demonstrate how a communications security and acceptable use policy can be written around a realistic business structure and risk profile.
 
 # Policy
 
