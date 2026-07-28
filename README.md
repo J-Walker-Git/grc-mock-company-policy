@@ -1,4 +1,9 @@
-# SOC-WIN11 COMMUNICATIONS Security and Acceptable Use Policy
+# SOC-WIN11 COMMUNICATIONS
+
+## Company Background
+SOC-WIN11 Communications is a mock telecommunications company that installs, maintains, and repairs fibre broadband connections for a small group of clients. The business has 50 employees across leadership, administration, HR, finance, procurement, desk-based operations, field operations, incident response, and security operations. Because the company handles client data, remote access, field devices, and operational systems, clear security and acceptable use standards are required.
+
+# Security and Acceptable Use Policy
 
 ## 1. Purpose
 This document sets out the company policy and standards for protecting employees, company systems, and company data.
