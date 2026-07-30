@@ -54,11 +54,14 @@ The screenshot below shows the SOC-WIN11 risk register before and after mitigati
 
 The total inherent risk score was 35 and the total residual risk score was 22, resulting in a reduction of 13 points. This equals an overall organisational risk reduction of **37.1%**.
 
-*Figure 1: SOC-WIN11 Communications Risk Register – inherent risk compared with residual risk after mitigation.*
+*Figure 1: SOC-WIN11 Communications Risk Matrix.*
+
+
+*Figure 2: SOC-WIN11 Communications Risk Register – inherent risk compared with residual risk after mitigation.*
 
 ## Controls Introduced
 
-The project introduced or reinforced the following controls:
+The project introduced the following controls:
 - Mandatory multi-factor authentication
 - Approved password manager use
 - Unique password requirements
