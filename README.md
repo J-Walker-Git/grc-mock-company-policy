@@ -60,7 +60,7 @@ The total inherent risk score was 35 and the total residual risk score was 22, r
 
 *Figure 2: SOC-WIN11 Communications Risk Register – inherent risk compared with residual risk after mitigation.*
 
-![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/43342e692d20e3fe83b1667188c1394cfa6efd4e/docs/risk-register-before-after.pdf)
+![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/77b9dfa623612b431218c714519ded8862ddd560/docs/risk-register-before-after.pdf)
 
 ## Controls Introduced
 
