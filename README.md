@@ -50,7 +50,7 @@ A qualitative risk matrix was used to assess selected organisational risks befor
 
 ## Risk Reduction Evidence
 
-The screenshot below shows the SOC-WIN11 risk register before and after mitigation. Using a qualitative risk matrix, I compared inherent risk scores with residual risk scores after implementing controls such as MFA, VPN enforcement, password management, and security awareness measures.
+The screenshots below show the SOC-WIN11 risk matrix in addition to the risk register before and after mitigation. Using a qualitative risk matrix, I compared inherent risk scores with residual risk scores after implementing controls such as MFA, VPN enforcement, password management, and security awareness measures.
 
 The total inherent risk score was 35 and the total residual risk score was 22, resulting in a reduction of 13 points. This equals an overall organisational risk reduction of **37.1%**.
 
@@ -58,9 +58,13 @@ The total inherent risk score was 35 and the total residual risk score was 22, r
 
 ![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/ccc9c11726c5ba42d4ab7e5ad75252dc8a6b9372/docs/grc-risk-matrix.png)
 
-*Figure 2: SOC-WIN11 Communications Risk Register – inherent risk compared with residual risk after mitigation.*
+*Figure 2: SOC-WIN11 Communications Risk Register – inherent risk before mitigation.*
 
-![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/77b9dfa623612b431218c714519ded8862ddd560/docs/risk-register-before-after.pdf)
+![image alt]()
+
+*Figure 3: SOC-WIN11 Communications Risk Register – residual risk after mitigation.*
+
+![image alt]()
 
 ## Controls Introduced
 
