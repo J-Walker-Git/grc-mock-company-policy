@@ -1,68 +1,87 @@
-# SOC-WIN11 COMMUNICATIONS
+# SOC-WIN11 Communications Policy Project
 
-This is my first GRC focused portfolio project where i have designed a policy document for a mock company SOC-WIN11 Communications.
+## Overview
 
-**This is a fictional company created for portfolio and learning purposes**
+SOC-WIN11 Communications is a fictional telecommunications company created for portfolio and learning purposes. This project was designed to demonstrate how a security and acceptable use policy can be written around a realistic business structure, operational model, and risk profile.
 
-## Company Background
-SOC-WIN11 Communications is a mock telecommunications company that installs, maintains, and repairs fibre broadband connections for a small client base. The organisation has 50 employees, including directors, administrative staff, HR, finance, procurement, desk-based operations staff, field engineers, supervisors, managers, an Incident Response Team, and a Security Operations Team. Its day-to-day work involves handling company and client data, coordinating field activity, supporting remote access, and securing devices and systems used by both office-based and field-based staff. This project was created to demonstrate how a communications security and acceptable use policy can be written around a realistic business structure and risk profile.
+The mock company has 50 employees across leadership, administration, HR, finance, procurement, desk-based operations, field engineering, incident response, and security operations. The environment includes office-based and remote working activity, company and client data handling, and the use of devices and systems across both desk-based and field roles.
 
+## Objective
 
-![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/cf06ab4f2b82033d8d42e01c81969e7d68a3a4c6/docs/grc-risk-matrix.png)
-![image alt](https://github.com/J-Walker-Git/grc-mock-company-policy/blob/baa94a40921aa914f0ab00942f7a44702243d3e9/docs/grc-risk-register.png)
+The objective of this project was to create a clear and practical policy that supports secure working practices while reducing risk across the organisation. The project focused on building controls around everyday issues such as password security, remote access, device use, incident reporting, and data handling.
 
-# Policy
+## Scope
 
-## 1. Purpose
-This document sets out the company policy and standards for protecting employees, company systems, and company data.
+The policy applies to all desk-based and field-based employees, as well as other authorised users of company systems and devices.
 
-## 2. Scope
-This policy applies to all desk-based and field-based employees and other authorised users of company systems and devices.
+It covers:
+- Acceptable use of company systems, tools, and devices
+- Password protection and account security
+- Multi-factor authentication
+- Incident reporting routes
+- Data classification
+- Remote working expectations
 
-## 3. Responsibilities
-- Users are responsible for complying with this policy.
-- The Incident Response Team (IRT) is responsible for all data-related issues.
-- The Security Operations Team (SOC) is responsible for all technical and security-related issues.
+## Key Policy Areas
 
-## 4. Exceptions
-No exceptions are permitted unless they are formally approved and documented.
+### Acceptable Use
+Company devices and equipment must be used only for authorised business purposes. Network and device activity may be monitored and logged for security, compliance, and misuse detection.
 
-## 5. Detail
-
-### Acceptable Use Policy
-- Company devices must be used primarily for authorised business purposes.
-- All device traffic may be monitored and logged for security, compliance, and misuse detection.
-- Company tools, including drills, testing equipment, and vehicles, must be used only for authorised business purposes.
-
-### Password and Authentication
-- Users are responsible for protecting their passwords and accounts.
-- Passwords must not be written down.
-- Passwords must be stored only in the company-approved password manager.
-- Third-party password managers are not permitted unless explicitly approved.
-- Passwords must be unique and must not be reused.
-- Multi-factor authentication is mandatory for all company accounts and devices, where available.
+### Password and Authentication Controls
+The policy requires unique passwords, prohibits writing passwords down, and limits storage to an approved password manager. It also mandates multi-factor authentication for company accounts and devices where available.
 
 ### Incident Reporting
-- All life-threatening emergencies must be reported through the emergency response process.
-- Non-life-threatening incidents must be reported to the user's supervisor and manager.
-- Data-related incidents must be reported to the Incident Response Team.
-- Technical issues affecting work devices must be reported to the SOC Team or via the approved help application.
+The policy separates emergency incidents, non-life-threatening incidents, data-related incidents, and technical issues. This helps direct reports to the correct team, including supervisors, managers, the Incident Response Team, and the Security Operations Team.
 
 ### Data Classification
-- Public data may be shared internally and externally.
-- Internal data may be shared only with authorised personnel.
-- Confidential data may be accessed only by authorised personnel with a business need.
-- Restricted data may be accessed only by explicitly authorised personnel with a business need.
+Data is grouped into Public, Internal, Confidential, and Restricted categories. Access is based on authorisation and business need.
 
 ### Remote Working
-- The company VPN must be used when working remotely.
-- Public Wi-Fi must not be used for work-related purposes unless approved security controls are in place.
+Remote workers must use the company VPN. Public Wi-Fi must not be used for work unless appropriate security controls are in place.
 
-## 6. Version History
-- **Issue:** 1
-- **Issued on:** 28-July-2026
-- **Author:** Jordan Walker
-- **Comments:** New document
+## Risk Approach
 
-## 7. Review Date
-28-July-2027
+A qualitative risk matrix was used to assess selected organisational risks before and after the proposed policy controls were introduced. Example risk themes included:
+- Unauthorised access to company accounts
+- Weak password practices
+- Insecure remote connectivity
+- Poor handling of sensitive data
+- Delayed reporting of technical or data incidents
+
+## Risk Reduction Evidence
+
+The screenshot below shows the SOC-WIN11 risk register before and after mitigation. Using a qualitative risk matrix, I compared inherent risk scores with residual risk scores after implementing controls such as MFA, VPN enforcement, password management, and security awareness measures.
+
+The total inherent risk score was 35 and the total residual risk score was 22, resulting in a reduction of 13 points. This equals an overall organisational risk reduction of **37.1%**.
+
+*Figure 1: SOC-WIN11 Communications Risk Register – inherent risk compared with residual risk after mitigation.*
+
+## Controls Introduced
+
+The project introduced or reinforced the following controls:
+- Mandatory multi-factor authentication
+- Approved password manager use
+- Unique password requirements
+- Defined incident reporting routes
+- Data classification rules
+- VPN enforcement for remote working
+- Restrictions around public Wi-Fi use
+- Clear user responsibilities and exception handling
+
+## Outcome
+
+This project demonstrates how policy-based controls can reduce organisational risk in a small business environment. By combining practical governance measures with clear user guidance, the organisation's security posture was improved in a measurable way.
+
+## Skills Demonstrated
+
+- GRC fundamentals
+- Security policy writing
+- Risk identification and assessment
+- Control selection
+- Security governance awareness
+- Written communication
+- Documentation for security operations support
+
+## Why This Project Matters
+
+This project reflects an understanding that cybersecurity is not only about technical tooling, but also about governance, user behaviour, and control design. It supports entry-level SOC and GRC applications by showing the ability to think about organisational risk in a structured and realistic way.
